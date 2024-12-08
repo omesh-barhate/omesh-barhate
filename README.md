@@ -8,7 +8,7 @@
 - 👀 **Comfortable with JavaScript** (still improving my skills and learning more).
 - 🛠️ Hands-on experience with **SQL**, **Django**, **FastAPI**, and **Node.js**.
 - 🚀 Familiar with **AWS**, **Postman**, and **Linux** for cloud and development operations.
-- 🔒 **Previous experience in identity security**, focusing on **building limitations with billing** and **revenue recognition (RevRec)** tools.
+- 🔒 **Previous experience in identity security**, and building **automated billing solutions** and **revenue recognition (RevRec)** tools.
 - 💞️ Looking to collaborate on **Backend**, **API development**, and **Cloud-based projects**.
 - 📫 Feel free to reach out at  [barhateomesh@gmail.com](mailto:barhateomesh@gmail.com).
 - 💼 Actively seeking **full-time opportunities** in software development.
