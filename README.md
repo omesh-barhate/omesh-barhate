@@ -1,16 +1,19 @@
-## Hi there 👋
+![](https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif)
 
-<!--
-**omesh-barhate/omesh-barhate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Hi, I’m Omesh Barhate👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 **Proficient in Java** and **Python**.
+- 🌱 Currently **exploring GoLang** and diving deeper into **Docker** and **Kubernetes**.
+- 👀 **Comfortable with JavaScript** (still improving my skills and learning more).
+- 🛠️ Hands-on experience with **SQL**, **Django**, **FastAPI**, and **Node.js**.
+- 🚀 Familiar with **AWS**, **Postman**, and **Linux** for cloud and development operations.
+- 🔒 **Previous experience in identity security**, focusing on **building limitations with billing** and **revenue recognition (RevRec)** tools.
+- 💞️ Looking to collaborate on **Backend**, **API development**, and **Cloud-based projects**.
+- 📫 Feel free to reach out at  [barhateomesh@gmail.com](mailto:barhateomesh@gmail.com).
+- 💼 Actively seeking **full-time opportunities** in software development.
+
+
+## 🚀 Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=aws,bash,c,django,docker,express,fastapi,go,java,javascript,kubernetes,linux,mongodb,mysql,nodejs,nginx,postgres,postman,py,ubuntu)](https://skillicons.dev)
