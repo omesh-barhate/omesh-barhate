@@ -4,9 +4,8 @@
 # Hi, I’m Omesh Barhate👋
 
 - 👨‍💻 **Proficient in Java** and **Python**.
-- 🌱 Currently **exploring GoLang** and diving deeper into **Docker** and **Kubernetes**.
-- 👀 **Comfortable with JavaScript** (still improving my skills and learning more).
-- 🛠️ Hands-on experience with **SQL**, **Django**, **FastAPI**, and **Node.js**.
+- 🌱 Currently **exploring Rust,GoLang** and diving deeper into **Docker** and **Kubernetes**.
+- 🛠️ Hands-on experience with **SQL**, **Django**,**TypeScript**, **FastAPI**, and **Node.js**.
 - 🚀 Familiar with **AWS**, **Postman**, and **Linux** for cloud and development operations.
 - 🔒 **Previous experience in identity security**, and building **automated billing solutions** and **revenue recognition (RevRec)** tools.
 - 💞️ Looking to collaborate on **Backend**, **API development**, and **Cloud-based projects**.
